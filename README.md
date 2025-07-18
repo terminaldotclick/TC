@@ -5,7 +5,7 @@
 <p align="center">Bringing dead text to life on Windows, Mac, and Linux.</p>
 <p align="center">https://terminal.click</p>
 
-This is an issues-only repo for Terminal Click (TC). TC is a native desktop terminal that recognizes user intent and supports it with rich graphics. Zero AI is involved.
+This is an issues-only repo for Terminal Click (TC).
 
 TC is:
 - Designed by a full-time [indie dev](https://abner.page/about)
