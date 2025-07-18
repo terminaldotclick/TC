@@ -16,7 +16,7 @@ TC is Handmade software. Watch the 2025 [demo](https://terminal.click/suckless) 
 
 ## FAQ
 
-1. **Is Terminal Click open-source?** *No. Like [Warp](https://github.com/warpdotdev), our repo is for users reporting issues. Unlike Warp, however, we're not a VC-backed startup needing to make back millions of dollars; I just want to pay my rent!*
+1. **Is Terminal Click open-source?** *A: No. Like [Warp](https://github.com/warpdotdev), our repo is for users reporting issues. Unlike Warp, however, we're not a VC-backed startup needing to make back millions of dollars; I just want to pay my rent!*
 
 2. **How do I purchase the binary?** *A: We're in so-called open beta. For five bucks a month you'll get new versions of TC to your Inbox. Sign up over at https://terminal.click/beta (cancel anytime!)*
 
