@@ -10,7 +10,7 @@ This is an issues-only repo for Terminal Click (TC).
 TC is:
 - Designed by a full-time [indie dev](https://abner.page/about)
 - A 100% offline binary: it's yours to own forever!
-- Determined to [displace](https://terminal.click/posts/2025/04/the-wizard-and-his-shell/) traditional shells
+- Determined to [displace](https://lobste.rs/s/ndlwoh/wizard_his_shell) traditional shells
 
 TC is Handmade software. Watch the 2025 [demo](https://terminal.click/suckless) comparing the Handmade and suckless terminals.
 
